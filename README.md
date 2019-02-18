@@ -1,6 +1,6 @@
 
 #### Sample project :
-[Springboot-cloud-rest](https://pages.github.com/)
+[under construction](https://pages.github.com/)
 
 #### Gist : 
 [WordCount](https://gist.github.com/ystarling/97135f49eb9dd8692d3991f56a076cc5)\
