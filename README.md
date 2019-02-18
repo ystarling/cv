@@ -1,5 +1,5 @@
 
-#### Sample project :
+#### Sample projects :
 [under construction, comming soon...](https://pages.github.com/)
 
 #### Gist : 
