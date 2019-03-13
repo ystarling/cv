@@ -1,8 +1,10 @@
 
 #### Sample projects :
-[ZipTal](ziptal.com)\
-[Vraagbod](vraagbod.nl)\
+
 [Aerlingus](aerlingus.com)
+[ZipTal](ziptal.com)\
+[Vraagbod](vraagbod.nl)
+
 
 #### Gist : 
 [WordCount](https://gist.github.com/ystarling/97135f49eb9dd8692d3991f56a076cc5)\
