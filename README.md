@@ -1,6 +1,8 @@
 
 #### Sample projects :
-[under construction, comming soon...](https://pages.github.com/)
+[ZipTal](ziptal.com)\
+[Vraagbod](vraagbod.nl)\
+[Aerlingus](aerlingus.com)
 
 #### Gist : 
 [WordCount](https://gist.github.com/ystarling/97135f49eb9dd8692d3991f56a076cc5)\
