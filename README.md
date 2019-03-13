@@ -1,7 +1,7 @@
 
 #### Sample projects :
 
-[Aerlingus](aerlingus.com)
+[Aerlingus](aerlingus.com)\
 [ZipTal](ziptal.com)\
 [Vraagbod](vraagbod.nl)
 
