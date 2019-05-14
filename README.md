@@ -1,10 +1,13 @@
 
 #### Sample projects :
 
-[Aerlingus](www.aerlingus.com)\
-[ZipTal](www.ziptal.com)\
-[Vraagbod](www.vraagbod.nl)\
-[Perabet](www.perabet.com)
+www.aerlingus.com
+<br/>
+www.ziptal.com
+<br/>
+www.vraagbod.nl
+<br/>
+www.perabet.com
 
 #### Github:
 [member-service](https://github.com/ystarling/member-service)\
