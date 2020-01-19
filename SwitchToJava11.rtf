@@ -1,0 +1,58 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 Menlo-Bold;\f2\fnil\fcharset0 AppleColorEmoji;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red64\green11\blue217;\red47\green180\blue29;
+}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c32308\c18668\c88227;\cssrgb\c20238\c73898\c14947;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \CocoaLigature0 laptop-mac:~ ystarling$ /usr/libexec/java_home -V\
+Matching Java Virtual Machines (1):\
+    1.8.0_172, x86_64:	"Java SE 8"	/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home\
+\
+/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home\
+laptop-mac:~ ystarling$ brew update\
+laptop-mac:~ ystarling$ brew tap homebrew/cask-versions\
+\cf3 ==>\cf2  
+\f1\b Tapping homebrew/cask-versions
+\f0\b0 \
+Cloning into '/usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask-versions'...\
+remote: Enumerating objects: 191, done.\
+remote: Counting objects: 100% (191/191), done.\
+remote: Compressing objects: 100% (186/186), done.\
+remote: Total 191 (delta 13), reused 41 (delta 2), pack-reused 0\
+Receiving objects: 100% (191/191), 82.55 KiB | 812.00 KiB/s, done.\
+Resolving deltas: 100% (13/13), done.\
+Tapped 160 casks (208 files, 325.7KB).\
+\
+laptop-mac:~ ystarling$ open ~/.bash_profile\
+Unable to find any JVMs matching version "11".\
+laptop-mac:~ ystarling$ brew cask install java11\
+\cf3 ==>\cf2  
+\f1\b Downloading https://download.oracle.com/java/GA/jdk11/9/GPL/openjdk-11.0.2_o
+\f0\b0 \
+######################################################################## 100.0%\
+\cf3 ==>\cf2  
+\f1\b Verifying SHA-256 checksum for Cask 'java11'.
+\f0\b0 \
+\cf4 ==>\cf2  
+\f1\b Installing Cask \cf4 java11
+\f0\b0 \cf2 \
+\cf3 ==>\cf2  
+\f1\b Moving Generic Artifact 'jdk-11.0.2.jdk' to '/Library/Java/JavaVirtualMachin
+\f0\b0 \
+Password:\
+
+\f2 \uc0\u55356 \u57210 
+\f0   java11 was successfully installed!\
+laptop-mac:~ ystarling$ source ~/.bash_profile\
+laptop-mac:~ ystarling$ java -version\
+openjdk version "11.0.2" 2019-01-15\
+OpenJDK Runtime Environment 18.9 (build 11.0.2+9)\
+OpenJDK 64-Bit Server VM 18.9 (build 11.0.2+9, mixed mode)\
+laptop-mac:~ ystarling$ \
+\
+https://medium.com/w-logs/installing-java-11-on-macos-with-homebrew-7f73c1e9fadf\
+}
